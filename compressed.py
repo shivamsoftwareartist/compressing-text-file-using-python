@@ -1,4 +1,5 @@
 import zlib, base64
+
 file1 = open('test.txt', 'r')
 text = file1.read()
 file1.close()
